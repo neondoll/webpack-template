@@ -1,8 +1,8 @@
 const path = require('path');
 
 module.exports = {
-  devServer   : {
+  devServer: {
     watchFiles: path.join(__dirname, 'src'),
-    port      : 9000
-  }
-}
+    port: 9000,
+  },
+};

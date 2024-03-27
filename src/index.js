@@ -1,4 +1,4 @@
-import "./scss/fonts.scss";
-import "./scss/main.scss";
+import './scss/fonts.scss';
+import './scss/main.scss';
 
-import "./js/app";
+import './js/app';
