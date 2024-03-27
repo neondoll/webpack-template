@@ -1,4 +1,4 @@
-import { httpGet } from './http';
+import httpGet from './http';
 
 export default function loadUser(id) {
   // bad practice
