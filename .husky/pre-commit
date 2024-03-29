@@ -1,1 +1,3 @@
-npm run lint:fix && git add . && npm test
+npm run lint:fix
+git add .
+npm test
